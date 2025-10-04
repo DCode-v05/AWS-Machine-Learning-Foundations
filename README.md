@@ -45,7 +45,7 @@ Get introduced to generative AI concepts, including prompt engineering and found
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/TensoRag/AWS-Machine-Learning-Foundations.git
+   git clone https://github.com/DCode-v05/AWS-Machine-Learning-Foundations.git
    cd AWS-Machine-Learning-Foundations
    ```
 2. **(Optional) Create a virtual environment:**
@@ -111,7 +111,7 @@ Contributions are welcome! To contribute:
 
 ## Contact
 For questions, suggestions, or feedback:
-- **GitHub:** [TensoRag](https://github.com/TensoRag)
+- **GitHub:** [DCode-v05](https://github.com/DCode-v05)
 - **Email:** denistanb05@gmail.com
 
 ---
